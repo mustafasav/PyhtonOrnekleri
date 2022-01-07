@@ -55,4 +55,5 @@ while (i<adet):
     i+=1
 
 for urun in urunler:
-    print(f"Ürün Adı:{urun['name']} ve ürün fiyatı:{urun['price']}")
+    print(f"Ürün Adı:{urun['name']} ve ürün fiyatı:{urun['price']}"),
+print("Son")

@@ -43,3 +43,4 @@ while (sayac<=100):
         continue
     toplam=toplam+sayac
 print(toplam)
+print(toplam)

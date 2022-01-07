@@ -32,3 +32,4 @@ users={ #bir anahtara birden fazla değer atanabilir.
 }
 print(users["mustafasav"]["yetki"])
 print(len(users["mustafasav"]["yetki"]))
+print("Son")

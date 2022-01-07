@@ -12,3 +12,4 @@ while not name: #not name name girilinceye kadar demek yani true dönene kadar
     name =input("İsminizi Girin:")
 
 print(f"Merhaba, {name}")
+print("Son")
