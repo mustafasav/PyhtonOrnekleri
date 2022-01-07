@@ -21,3 +21,4 @@ mesaj = a * b+x+y+z
 # print(mesaj)
 # mesaj = int(math.fsum(y[::]))
 print(mesaj)
+print(mesaj)
